@@ -1,6 +1,6 @@
 {
   "name": "jec-glasscat-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JEC GlassCat Config - Contains all interfaces used for setting GlassCat server.",
   "main": "dist/com/onsoft/jec-glasscat-config-index",
   "types": "types/jec-glasscat-config.d.ts",

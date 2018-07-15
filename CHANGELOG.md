@@ -1,7 +1,17 @@
 # JEC GlassCat Config Project: Update Release Notes
 
+<a name="jec-glasscat-config-1.0.1"></a>
+## **1.0.1** (2018-07-15)
+
+### Bug Fixes
+
+- Fixing definition types imports
+- Fixing main js filereference
+
+### Features
+
 <a name="jec-glasscat-config-1.0.0"></a>
-## **1.0.0** (2018-07-1)
+## **1.0.0** (2018-07-14)
 
 ### Bug Fixes
 
