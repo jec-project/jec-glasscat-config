@@ -1,8 +1,8 @@
 {
   "name": "jec-glasscat-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JEC GlassCat Config - Contains all interfaces used for setting GlassCat server.",
-  "main": "dist/com/onsoft/jec-glasscat-config-index",
+  "main": "dist/com/onsoft/glasscat/jec-glasscat-config-index",
   "types": "types/jec-glasscat-config.d.ts",
   "scripts": {
     "test": "mocha juta/tiger/run-unit-tests"
