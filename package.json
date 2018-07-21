@@ -31,7 +31,7 @@
   "homepage": "https://github.com/jec-project/jec-glasscat-config#readme",
   "dependencies": {
     "jec-commons": "^1.1.9",
-    "jec-exchange": "^1.1.7"
+    "jec-exchange": "^1.1.8"
   },
   "devDependencies": {
     "@types/node": "^8.0.13",

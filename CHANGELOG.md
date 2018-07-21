@@ -1,11 +1,12 @@
 # JEC GlassCat Config Project: Update Release Notes
 
 <a name="jec-glasscat-config-1.0.2"></a>
-## **1.0.2** (2018-07-15)
+## **1.0.2** (2018-07-21)
 
 ### Bug Fixes
 
 - Moving main js file
+- Dependencies upgrade
 
 <a name="jec-glasscat-config-1.0.1"></a>
 ## **1.0.1** (2018-07-15)
