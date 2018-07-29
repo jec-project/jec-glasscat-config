@@ -15,8 +15,8 @@
 //   limitations under the License.
 
 /**
- * The <code>GlasscatConfig</code> interface represents the <code>glasscat</code> 
- * data of a bootstrap configuration file.
+ * The <code>GlasscatConfig</code> interface represents the 
+ * <code>glasscat</code> data of a bootstrap configuration file.
  */
 export interface GlasscatConfig {
 

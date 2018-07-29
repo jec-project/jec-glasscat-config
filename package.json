@@ -1,6 +1,6 @@
 {
   "name": "jec-glasscat-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "JEC GlassCat Config - Contains all interfaces used for setting GlassCat server.",
   "main": "dist/com/onsoft/glasscat/jec-glasscat-config-index",
   "types": "types/jec-glasscat-config.d.ts",
@@ -30,18 +30,19 @@
   },
   "homepage": "https://github.com/jec-project/jec-glasscat-config#readme",
   "dependencies": {
-    "jec-commons": "^1.1.9",
-    "jec-exchange": "^1.1.8"
+    "jec-commons": "^1.2.0",
+    "jec-exchange": "^1.1.9"
   },
   "devDependencies": {
-    "@types/node": "^8.0.13",
-    "grunt": "^1.0.1",
+    "@types/node": "^10.5.4",
+    "grunt": "1.0.3",
     "grunt-contrib-clean": "^1.1.0",
     "grunt-contrib-copy": "^1.0.0",
-    "grunt-mocha-test": "^0.13.2",
-    "grunt-ts": "^6.0.0-beta.17",
+    "grunt-mocha-test": "^0.13.3",
+    "grunt-ts": "^6.0.0-beta.21",
     "grunt-typedoc": "^0.2.4",
-    "typedoc": "^0.8.0",
-    "typescript": "^2.6.2"
+    "mocha": "^5.2.0",
+    "typedoc": "^0.11.1",
+    "typescript": "^2.9.2"
   }
 }

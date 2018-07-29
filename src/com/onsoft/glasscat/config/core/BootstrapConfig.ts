@@ -18,8 +18,8 @@ import {GlasscatConfig} from "./GlasscatConfig";
 import {ToolsConfig} from "./ToolsConfig";
 
 /**
- * The <code>BootstrapConfig</code> interface represents the bootstrap configuration
- * file for a GlassCat container.
+ * The <code>BootstrapConfig</code> interface represents the bootstrap 
+ * configuration file for a GlassCat container.
  */
 export interface BootstrapConfig {
 

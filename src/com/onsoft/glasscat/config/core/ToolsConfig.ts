@@ -19,8 +19,8 @@ import {HttpConfig} from "./HttpConfig";
 import {SecurityConfig} from "./SecurityConfig";
 
 /**
- * The <code>ToolsConfig</code> interface represents the <code>config</code> data 
- * of a bootstrap configuration file.
+ * The <code>ToolsConfig</code> interface represents the <code>config</code>  
+ * data of a bootstrap configuration file.
  */
 export interface ToolsConfig {
 
